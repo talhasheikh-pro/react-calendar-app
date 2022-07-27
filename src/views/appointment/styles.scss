@@ -1,0 +1,20 @@
+$lightGray: #ababab;
+
+.appointments__section {
+    padding: 20px;
+    > header {
+        display: flex;
+        margin-bottom: 10px;
+        border-bottom: 1px solid $lightGray;
+        > h1 {
+            flex: 1;
+            span {
+                font-size: 14px;
+                color: $lightGray;
+                border-left: 1px solid;
+                padding-left: 10px;
+                margin-left: 10px;
+            }
+        }
+    }
+}

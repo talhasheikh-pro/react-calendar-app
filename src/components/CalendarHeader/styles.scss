@@ -1,0 +1,11 @@
+.calendar__header {
+    display: flex;
+    margin-left: 30px;
+    margin-bottom: 20px;
+    flex: 1;
+    flex-direction: row;
+    > div {
+        flex: 1;
+        min-width: 100px;
+    }
+}

@@ -1,0 +1,50 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders all dates 1`] = `
+<section
+  className="calendar__header"
+>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    27 Jul, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    28 Jul, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    29 Jul, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    30 Jul, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    31 Jul, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    1 Aug, 2022
+     
+  </div>
+  <div
+    className="MuiPaper-root MuiPaper-elevation MuiPaper-rounded MuiPaper-elevation0 css-ee20y-MuiPaper-root"
+  >
+    2 Aug, 2022
+     
+  </div>
+</section>
+`;

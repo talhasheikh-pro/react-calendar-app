@@ -1,0 +1,40 @@
+.calendar__timeslots {
+    display: flex;
+    flex-direction: column;
+    > div {
+        display: flex;
+        flex-direction: row;
+        > span {
+            width: 30px;
+        }
+    }
+    .calendar__timeslots__row {
+        flex: 1;
+        display: flex;
+        > div {
+            flex: 1;
+            min-height: 120px;
+            min-width: 100px;
+        }
+
+        .calendar__slot {
+            background-color: #039be5;
+            color: #fff;
+            padding: 6px;
+
+            &:not(:first-child){
+                margin-top: 4px;
+            }
+        }
+    }
+
+    .css-1kuq5xv-MuiButtonBase-root-MuiIconButton-root {
+        padding: 6px;
+        margin-top: 6px;
+        margin-left: 0;
+        > svg {
+            font-size: 14px;
+            color: #fff;
+        }
+    }
+}
