@@ -27,7 +27,7 @@
     },
     {
       "id": 7,
-      "name": "APASHDJFKR ORUJAJSNFH RHEIAKSJDH",
+      "name": "Event July - E",
       "date": "Mon, 26 Jul 2022 03:29:44 GMT"
     },
     {
@@ -39,11 +39,6 @@
       "id": 9,
       "name": "AP-9",
       "date": "Mon, 30 Jul 2022 09:29:44 GMT"
-    },
-    {
-      "id": 10,
-      "name": "AP-10",
-      "date": "Mon, 1 Aug 2022 23:29:44 GMT"
     },
     {
       "id": 11,
@@ -66,39 +61,29 @@
       "id": 14
     },
     {
-      "name": "Event - 30th July - 4:30 pm",
+      "name": "Event July - D",
       "date": "Sat, 30 Jul 2022 14:30:57 GMT",
       "id": 19
     },
     {
-      "name": "Today - Event",
+      "name": "Event July - C",
       "date": "Tue, 26 Jul 2022 22:40:24 GMT",
       "id": 20
     },
     {
-      "name": "Today - 2",
+      "name": "Event July - B",
       "date": "Wed, 27 Jul 2022 10:42:13 GMT",
       "id": 21
     },
     {
-      "name": "AP-7 - Resch",
-      "date": "Tue, 02 Aug 2022 02:45:00 GMT",
-      "id": 22
-    },
-    {
-      "name": "2 Aug",
+      "name": "Event Aug - A",
       "date": "Tue, 02 Aug 2022 00:31:00 GMT",
       "id": 23
     },
     {
-      "name": "Talha Abrar",
+      "name": "Event July - A",
       "date": "Sun, 31 Jul 2022 23:30:13 GMT",
       "id": 24
-    },
-    {
-      "name": "Talha Abrar A",
-      "date": "Sun, 31 Jul 2022 23:05:30 GMT",
-      "id": 25
     }
   ]
 }
